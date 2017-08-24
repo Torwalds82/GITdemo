@@ -1,4 +1,4 @@
-﻿df
+﻿
 
  Param ([Parameter(Mandatory=$true)] 
  [string]$DNSlogPath) 
